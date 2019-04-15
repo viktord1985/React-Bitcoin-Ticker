@@ -4,6 +4,8 @@ React Native app for Android and iOS to monitor changes in the price of a crypto
 
 ## Project donation link https://www.patreon.com/react_bitcoin_ticker
 
+## Application source code https://codecanyon.net/item/react-bitcoin/22452611
+
 ## Application Features
 
 - React Native mobile app
